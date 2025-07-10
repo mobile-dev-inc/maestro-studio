@@ -6,7 +6,7 @@ Maestro Studio is an all-in-one desktop app that lets you inspect elements, mana
 
 🚀 **Works on macOS, Windows, and Linux**
 
-👉 [Releases](https://example.com/mac](https://github.com/mobile-dev-inc/maestro-studio/releases/latest)  
+👉 [Releases](https://github.com/mobile-dev-inc/maestro-studio/releases/latest)
 
 > 💬 Join our [Slack community](https://mobile-dev-inc.slack.com/archives/C08M8B56HR8) to get support, leave feedback, and talk directly to the team.
 
