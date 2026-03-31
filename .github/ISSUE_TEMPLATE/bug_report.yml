@@ -1,0 +1,62 @@
+name: Bug Report
+description: Report a bug in Maestro Studio
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Maestro Studio Version
+      description: "Find this in Settings → Updates"
+      placeholder: "e.g. 1.2.3"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - macOS
+        - Windows
+        - Linux
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Test Platform (if applicable)
+      options:
+        - iOS
+        - Android
+        - Web
+        - N/A
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: What happened, and what did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Screen Recordings
+      description: Drag and drop images or paste links here (optional)
+    validations:
+      required: false

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask on Slack
+    url: https://slack.maestro.dev
+    about: Questions, discussions, and community support
