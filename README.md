@@ -19,7 +19,7 @@ Maestro Studio is an all-in-one desktop app that lets you inspect elements, mana
 - ☁️ **Cloud Execution** – Upload and run flows or apps in Maestro Cloud and view results in the app
 - 🧪 **Environment Management** – Set env vars, `includeTags`, and `excludeTags` per workspace
 - ⌨️ **Command Generation** – Use `CMD+K` to launch a smarter, faster flow builder
-- 🪄 **Inline Inspector Commands** – Use `CMD+I` Instantly generate flow steps while inspecting elements
+- 🪄 **Inline Inspector Commands** – Use `CMD+I` to instantly generate flow steps while inspecting elements
 - 📜 **Command History Log** – Review and replay previously run commands
 - ⏸️ **Pause / Stop Execution** – Full control over flow execution
 - 🖥️ **Cross-platform** – Native installers for macOS (Intel & Apple Silicon), Windows, and Linux
